@@ -1,1 +1,1 @@
-Just created goforlocalcoin to learn.
+Just created gocoin for Goforlocal.com to learn.
